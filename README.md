@@ -7,7 +7,7 @@ Podes darle un contexto y es facil de integrar a tu aplicacion web.
 
 1. **Clona el Repositorio:** Clona este repositorio en tu máquina local utilizando el siguiente comando:
    ```bash 
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/NachoBogho/chatbot-react.git
 
 
 2. **Instala las dependencias:** Navega hasta el directorio del repositorio clonado y ejecuta el siguiente comando para instalar las dependencias necesarias:
